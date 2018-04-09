@@ -1,0 +1,4 @@
+①git remote -v 查看远程连接
+②git remote add url 链接到远端
+③git commit -m 描述 提交到本地
+④git pushremote Name 推送到github
