@@ -1,4 +1,5 @@
-¢Ùgit remote -v ²é¿´Ô¶³ÌÁ¬½Ó
-¢Úgit remote add url Á´½Óµ½Ô¶¶Ë
-¢Ûgit commit -m ÃèÊö Ìá½»µ½±¾µØ
-¢Ügit pushremote Name ÍÆËÍµ½github
+â‘ git remote -v æŸ¥çœ‹è¿œç¨‹è¿æ¥
+â‘¡git remote add url é“¾æ¥åˆ°è¿œç«¯
+â‘¢git commit -m æè¿° æäº¤åˆ°æœ¬åœ°
+â‘£git pushremote Name æ¨é€åˆ°github
+22222
